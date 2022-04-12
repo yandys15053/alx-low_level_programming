@@ -6,7 +6,7 @@
  *
  * Return: 1 if lowercase
  */
-int _isalpha(int c);
+int _isalpha(int c)
 	{
 		if (c >= 'a' && c <= 'z')
 		{
